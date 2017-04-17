@@ -43,7 +43,7 @@ Step - 6: Add following code snippet in ```didFinishLaunchingWithOptions``` meth
 We have integrated methods with AppDelegate file. Utilise it according to your requirement. See example to understand how to use this library.
 
 ### Author
-- Vimal Rughani
+- Virtual Reality Systems
 
 ### Contact Us
 - info@virtaulrealitysystems.net
