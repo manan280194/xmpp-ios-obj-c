@@ -1,0 +1,6 @@
+framework module Pods_xmpp_ios_obj_c {
+  umbrella header "Pods-xmpp-ios-obj-c-umbrella.h"
+
+  export *
+  module * { export * }
+}
